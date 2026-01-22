@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Models
+*.pt
+*.onnx
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Images (optional – agar dataset hai)
+*.jpg
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
