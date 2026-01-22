@@ -16,8 +16,8 @@ venv/
 *.mov
 
 # Images (optional – agar dataset hai)
-*.jpg
-*.png
+# *.jpg
+# *.png
 
 # OS files
 .DS_Store
